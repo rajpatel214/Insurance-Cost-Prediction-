@@ -41,8 +41,8 @@ However, gender alone is not the biggest factor in determining costs.
 **Support Vector Regressor (SVR) –** A model that works well in specific situations but was not the best choice here.
 
 
-**Linear Regression: 74% accuracy
-Decision Tree: 83% accuracy
-Random Forest: 86% accuracy
+**Linear Regression: 74% accuracy,
+Decision Tree: 83% accuracy,
+Random Forest: 86% accuracy,
 Gradient Boosting: 81% accuracy**
 
